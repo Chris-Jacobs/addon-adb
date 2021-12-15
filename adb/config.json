@@ -1,6 +1,5 @@
 {
   "name": "ADB - Android Debug Bridge",
-  "stage": "deprecated",
   "version": "dev",
   "slug": "adb",
   "description": "The Android Debug Bridge server program",
